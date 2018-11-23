@@ -22,7 +22,7 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8761/eureka/
-env: test2222dd
+env: test2222dds
 management:
   endpoints:
     web:
