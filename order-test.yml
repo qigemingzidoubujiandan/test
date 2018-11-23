@@ -10,16 +10,14 @@ spring:
     config:
       server:
         git:
-          uri: https://gitee.com/shanxichangzi/cloud_test
-          username: shanxichangzi
+          uri: https://github.com/qigemingzidoubujiandan/test
+          username: qigemingzidoubujiandan
           password: didiao2013
-
   rabbitmq:
     host: 192.168.99.100
     port: 5672
     username: guest
     password: guest
-
 eureka:
   client:
     service-url:
